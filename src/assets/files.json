@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "label": "External Knowledge",
+      "data": "Documents Folder",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "children": [
+        {
+          "label": "China leadership and team have to align with the performance orientation of the customer. Thus Deere has to produce and deliver performance focused products and services test",
+          "data": "Work Folder"
+        }
+      ]
+    },
+    {
+      "label": "Dashboard Reference",
+      "data": "Pictures Folder",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "children": [
+        {
+          "label": "What matters most to customers",
+          "data": "Barcelona Photo"
+        }
+      ]
+    },
+    {
+      "label": "Driver Reference",
+      "data": "Movies Folder",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "children": [
+        {
+          "label": "Maximize Equipment up-time for faster payback",
+          "data": "Pacino Movies"
+        }
+      ]
+    },
+    {
+      "label": "Opportunities",
+      "data": "Movies Folder",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "children": [
+        {
+          "label": "Focus on 'lead' Distributors",
+          "data": "Pacino Movies",
+          "children": [
+            {
+              "label": "Upgrade Distributor KPI",
+              "data": "Scarface Movie",
+              "children": [
+                {
+                  "label": "Delve into the High Performance Distributor playbook and use that as basis for Western Region Distributor development. Special item - Western Region Distributor development"
+                },
+                {
+                  "label": "Is there enough Distributor performance segmentation to create priority focus? Special item - Western Region Distributor development"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Production System Focus",
+          "data": "Serpico Movie",
+          "children": [
+            {
+              "label": "Develop product line strategy with key competitive differentiation. Assemble teams by Customer Segmentation system to develop Customer Segmentation strategy for Western Region. - Special item"
+            },
+            {
+              "label": "Assume MfgCo will or has already developed core strategy to drive and support Customer Segmentation System focus and optimization. Need guidance from corporate product line production system leads to guide portfolio decisions"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
